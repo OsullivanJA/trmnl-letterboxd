@@ -29,7 +29,7 @@ if (fs.existsSync(envFile)) {
 // ─── Configuration ────────────────────────────────────────────────────────────
 const USERNAME    = process.env.LETTERBOXD_USERNAME;
 const OUTPUT_FILE = path.join(__dirname, 'letterboxd.json');
-const RECENT_COUNT = 4;
+const RECENT_COUNT = 5;
 const MONTH_LABELS = [
   'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
   'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
