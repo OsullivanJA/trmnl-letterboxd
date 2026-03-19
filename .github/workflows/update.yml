@@ -1,0 +1,36 @@
+name: Update Letterboxd Data
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC — adjust the cron expression as needed
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow a manual run from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Required to commit the updated letterboxd.json
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Letterboxd diary data
+        run: node fetch.js
+        env:
+          # Set LETTERBOXD_USERNAME under Settings → Secrets and variables
+          # → Actions → Variables (not Secrets — this is public data).
+          LETTERBOXD_USERNAME: ${{ vars.LETTERBOXD_USERNAME }}
+
+      - name: Commit updated data file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update Letterboxd diary data'
+          file_pattern: letterboxd.json
