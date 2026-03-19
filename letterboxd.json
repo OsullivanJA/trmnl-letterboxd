@@ -1,0 +1,86 @@
+{
+  "year": 2026,
+  "total_year": 15,
+  "max_monthly": 8,
+  "months": [
+    {
+      "label": "Jan",
+      "count": 8,
+      "height_pct": 100
+    },
+    {
+      "label": "Feb",
+      "count": 4,
+      "height_pct": 50
+    },
+    {
+      "label": "Mar",
+      "count": 3,
+      "height_pct": 38
+    },
+    {
+      "label": "Apr",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "May",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Jun",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Jul",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Aug",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Sep",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Oct",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Nov",
+      "count": 0,
+      "height_pct": 0
+    },
+    {
+      "label": "Dec",
+      "count": 0,
+      "height_pct": 0
+    }
+  ],
+  "recent_films": [
+    {
+      "title": "Loving",
+      "rating": ""
+    },
+    {
+      "title": "Sinners",
+      "rating": ""
+    },
+    {
+      "title": "Aniara",
+      "rating": ""
+    },
+    {
+      "title": "Leave No Trace",
+      "rating": ""
+    }
+  ],
+  "updated_at": "2026-03-19T12:30:04.248Z"
+}
