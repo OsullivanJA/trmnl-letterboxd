@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 15,
+  "total_year": 16,
   "max_monthly": 8,
   "months": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "label": "Mar",
-      "count": 3,
-      "height_pct": 38
+      "count": 4,
+      "height_pct": 50
     },
     {
       "label": "Apr",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "Bliss",
+      "rating": ""
+    },
+    {
       "title": "Loving",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Leave No Trace",
       "rating": ""
-    },
-    {
-      "title": "Aftersun",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-03-24T06:57:07.955Z"
+  "updated_at": "2026-03-24T12:26:57.937Z"
 }
