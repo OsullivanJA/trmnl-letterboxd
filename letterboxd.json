@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 18,
+  "total_year": 19,
   "max_monthly": 8,
   "months": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "label": "Apr",
-      "count": 1,
-      "height_pct": 13
+      "count": 2,
+      "height_pct": 25
     },
     {
       "label": "May",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "Greenland 2: Migration",
+      "rating": ""
+    },
+    {
       "title": "Man Up",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Loving",
       "rating": ""
-    },
-    {
-      "title": "Sinners",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-04-11T06:53:53.534Z"
+  "updated_at": "2026-04-12T07:06:11.092Z"
 }
