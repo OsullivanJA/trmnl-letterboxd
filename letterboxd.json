@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 19,
+  "total_year": 20,
   "max_monthly": 8,
   "months": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "label": "Apr",
-      "count": 2,
-      "height_pct": 25
+      "count": 3,
+      "height_pct": 38
     },
     {
       "label": "May",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "The Book of Clarence",
+      "rating": ""
+    },
+    {
       "title": "Greenland 2: Migration",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Bliss",
       "rating": ""
-    },
-    {
-      "title": "Loving",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-04-15T07:22:07.499Z"
+  "updated_at": "2026-04-16T07:22:52.455Z"
 }
