@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 29,
+  "total_year": 30,
   "max_monthly": 8,
   "months": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "label": "Jun",
-      "count": 0,
-      "height_pct": 0
+      "count": 1,
+      "height_pct": 13
     },
     {
       "label": "Jul",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "In the Mood for Love",
+      "rating": ""
+    },
+    {
       "title": "Only God Forgives",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "I.S.S.",
       "rating": ""
-    },
-    {
-      "title": "Train to Busan",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-06-02T10:10:35.033Z"
+  "updated_at": "2026-06-03T10:33:31.627Z"
 }
