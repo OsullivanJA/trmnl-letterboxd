@@ -3,7 +3,7 @@ name: Update Letterboxd Data
 on:
   schedule:
     # Runs daily at 06:00 UTC — adjust the cron expression as needed
-    - cron: '0 6 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch: # Allow a manual run from the Actions tab
 
 jobs:
