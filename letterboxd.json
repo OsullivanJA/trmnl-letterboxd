@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 31,
+  "total_year": 32,
   "max_monthly": 8,
   "months": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "label": "Jun",
-      "count": 2,
-      "height_pct": 25
+      "count": 3,
+      "height_pct": 38
     },
     {
       "label": "Jul",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "Exit 8",
+      "rating": ""
+    },
+    {
       "title": "I Saw the TV Glow",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Love Lies Bleeding",
       "rating": ""
-    },
-    {
-      "title": "The Drama",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-06-10T05:09:15.692Z"
+  "updated_at": "2026-06-11T05:18:48.079Z"
 }
