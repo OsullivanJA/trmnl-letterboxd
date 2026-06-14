@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 32,
+  "total_year": 33,
   "max_monthly": 8,
   "months": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "label": "Jun",
-      "count": 3,
-      "height_pct": 38
+      "count": 4,
+      "height_pct": 50
     },
     {
       "label": "Jul",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "Send Help",
+      "rating": ""
+    },
+    {
       "title": "Exit 8",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Only God Forgives",
       "rating": ""
-    },
-    {
-      "title": "Love Lies Bleeding",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-06-13T05:13:25.362Z"
+  "updated_at": "2026-06-14T05:23:18.217Z"
 }
