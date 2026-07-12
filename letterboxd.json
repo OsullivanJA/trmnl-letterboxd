@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 34,
+  "total_year": 35,
   "max_monthly": 8,
   "months": [
     {
@@ -35,8 +35,8 @@
     },
     {
       "label": "Jul",
-      "count": 0,
-      "height_pct": 0
+      "count": 1,
+      "height_pct": 13
     },
     {
       "label": "Aug",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "The Witch",
+      "rating": ""
+    },
+    {
       "title": "Toy Story 5",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "I Saw the TV Glow",
       "rating": ""
-    },
-    {
-      "title": "In the Mood for Love",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-07-11T03:58:25.573Z"
+  "updated_at": "2026-07-12T04:19:23.763Z"
 }
