@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 35,
+  "total_year": 36,
   "max_monthly": 8,
   "months": [
     {
@@ -35,8 +35,8 @@
     },
     {
       "label": "Jul",
-      "count": 1,
-      "height_pct": 13
+      "count": 2,
+      "height_pct": 25
     },
     {
       "label": "Aug",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "The Northman",
+      "rating": ""
+    },
+    {
       "title": "The Witch",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Exit 8",
       "rating": ""
-    },
-    {
-      "title": "I Saw the TV Glow",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-07-27T04:29:14.826Z"
+  "updated_at": "2026-07-28T03:53:41.569Z"
 }
