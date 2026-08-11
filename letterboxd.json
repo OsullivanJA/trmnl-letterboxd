@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 37,
+  "total_year": 38,
   "max_monthly": 8,
   "months": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "label": "Aug",
-      "count": 0,
-      "height_pct": 0
+      "count": 1,
+      "height_pct": 13
     },
     {
       "label": "Sep",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "The Devil Wears Prada 2",
+      "rating": ""
+    },
+    {
       "title": "Mindhunters",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "Toy Story 5",
       "rating": ""
-    },
-    {
-      "title": "Send Help",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-08-10T03:04:31.784Z"
+  "updated_at": "2026-08-11T02:57:40.564Z"
 }
