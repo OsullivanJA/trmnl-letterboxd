@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 38,
+  "total_year": 39,
   "max_monthly": 8,
   "months": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "label": "Aug",
-      "count": 1,
-      "height_pct": 13
+      "count": 2,
+      "height_pct": 25
     },
     {
       "label": "Sep",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "The Last House",
+      "rating": ""
+    },
+    {
       "title": "The Devil Wears Prada 2",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "The Witch",
       "rating": ""
-    },
-    {
-      "title": "Toy Story 5",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-08-29T07:30:21.091Z"
+  "updated_at": "2026-08-30T06:00:43.865Z"
 }
