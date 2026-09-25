@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 39,
+  "total_year": 40,
   "max_monthly": 8,
   "months": [
     {
@@ -45,8 +45,8 @@
     },
     {
       "label": "Sep",
-      "count": 0,
-      "height_pct": 0
+      "count": 1,
+      "height_pct": 13
     },
     {
       "label": "Oct",
@@ -66,6 +66,10 @@
   ],
   "recent_films": [
     {
+      "title": "It Ends",
+      "rating": ""
+    },
+    {
       "title": "The Last House",
       "rating": ""
     },
@@ -80,11 +84,7 @@
     {
       "title": "The Northman",
       "rating": ""
-    },
-    {
-      "title": "The Witch",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-09-24T05:36:23.756Z"
+  "updated_at": "2026-09-25T05:33:10.845Z"
 }
