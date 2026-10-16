@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 41,
+  "total_year": 42,
   "max_monthly": 8,
   "months": [
     {
@@ -50,8 +50,8 @@
     },
     {
       "label": "Oct",
-      "count": 1,
-      "height_pct": 13
+      "count": 2,
+      "height_pct": 25
     },
     {
       "label": "Nov",
@@ -65,6 +65,10 @@
     }
   ],
   "recent_films": [
+    {
+      "title": "Resident Evil",
+      "rating": ""
+    },
     {
       "title": "Digger",
       "rating": ""
@@ -80,11 +84,7 @@
     {
       "title": "The Devil Wears Prada 2",
       "rating": ""
-    },
-    {
-      "title": "Mindhunters",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-10-15T05:22:14.776Z"
+  "updated_at": "2026-10-16T05:14:04.350Z"
 }
