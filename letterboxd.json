@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 42,
+  "total_year": 43,
   "max_monthly": 8,
   "months": [
     {
@@ -50,8 +50,8 @@
     },
     {
       "label": "Oct",
-      "count": 2,
-      "height_pct": 25
+      "count": 3,
+      "height_pct": 38
     },
     {
       "label": "Nov",
@@ -65,6 +65,10 @@
     }
   ],
   "recent_films": [
+    {
+      "title": "Obsession",
+      "rating": ""
+    },
     {
       "title": "Resident Evil",
       "rating": ""
@@ -80,11 +84,7 @@
     {
       "title": "The Last House",
       "rating": ""
-    },
-    {
-      "title": "The Devil Wears Prada 2",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-10-21T05:28:47.108Z"
+  "updated_at": "2026-10-22T05:33:03.780Z"
 }
