@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_year": 43,
+  "total_year": 44,
   "max_monthly": 8,
   "months": [
     {
@@ -55,8 +55,8 @@
     },
     {
       "label": "Nov",
-      "count": 0,
-      "height_pct": 0
+      "count": 1,
+      "height_pct": 13
     },
     {
       "label": "Dec",
@@ -65,6 +65,10 @@
     }
   ],
   "recent_films": [
+    {
+      "title": "Ready or Not 2: Here I Come",
+      "rating": ""
+    },
     {
       "title": "Obsession",
       "rating": ""
@@ -80,11 +84,7 @@
     {
       "title": "It Ends",
       "rating": ""
-    },
-    {
-      "title": "The Last House",
-      "rating": ""
     }
   ],
-  "updated_at": "2026-11-09T07:21:14.601Z"
+  "updated_at": "2026-11-10T07:51:24.581Z"
 }
